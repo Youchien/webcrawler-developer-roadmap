@@ -18,7 +18,7 @@ XXXXXX
 
 ## 参与开源贡献
 
-该 Roadmaps 的创作软件为:[XMind](https://www.xmind.net/)。 项目文件在 `/project` 目录下。 如果想要修改该 Roadmaps，先打开XMind, 在菜单栏中依次点击 **<u>F</u>ile > Open... > roadmap.xmind**，你将会打开该Roadmaps，如果你对其进行了更新和上传 并且在readme文件中进行了更新，那么你可以创建一个pull request。
+该 Roadmaps 的创作软件为:[XMind](https://www.xmind.net/)。 项目文件在 `/resource` 目录下。 如果想要修改该 Roadmaps，先打开XMind, 在菜单栏中依次点击 **<u>F</u>ile > Open... > roadmap.xmind**，你将会打开该Roadmaps，如果你对其进行了更新和上传 并且在readme文件中进行了更新，那么你可以创建一个pull request。
 
 - 提一个 pull request 对其进行改进
 - 讨论想法在 issues tab中
